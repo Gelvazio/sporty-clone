@@ -7,8 +7,6 @@
 export const initialState = {
     user: null,
     token: null,
-    // REMOVER NO FINAL DO DESENVOLVIMENTO
-    // token: 'BQBT__R3frEp_-BxnaFjLdCm0DzZmp_radOcy9lXddapv9kY0IH8cTMyVIOa5aQk-FfJcpurdzpwxH-pHgpSrtVdXJKb9izW6NHgF7KFM-MBe0iMss0MHRwW1eQ3-l_wg8pY4Hs98LYCsO1KpwgX1qEMLeab54iXJLI',
     playlists: [],
     playing: false,
     item: null,
