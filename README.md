@@ -1,9 +1,9 @@
 <h1 align="center">
-    Navegador Google Clone
+    Spotify Clone
 </h1>
 
 <h4 align="center">
-  Navegador Google Clone tecnologias JavaScript, HTML, CSS, Firebase
+  Spotify Clone tecnologias JavaScript, HTML, CSS, React
 </h4>
 
 <p align="center">
@@ -13,20 +13,17 @@
 </p>
 
 <h4 align="left">
-  Demotração do Projeto, acessar link abaixo.
-</h4 >
-<a href="https://dazzling-hamilton-497b5d.netlify.app/" target="_blank" >https://dazzling-hamilton-497b5d.netlify.app/</a>
-
-<h4 align="left">
-  Demotração do layout desenvolvido.
+  Demotração do projeto desenvolvido.
 </h4>
 
-<a href="https://imgur.com/AwWimt5"><img src="https://i.imgur.com/AwWimt5.png" title="source: imgur.com" /></a>
-<a href="https://imgur.com/Vlpjhi7"><img src="https://i.imgur.com/Vlpjhi7.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/3g8iMYu"><img src="https://i.imgur.com/3g8iMYu.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/E3aPUNE"><img src="https://i.imgur.com/E3aPUNE.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/KnLgAKL"><img src="https://i.imgur.com/KnLgAKL.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/rE2UXYR"><img src="https://i.imgur.com/rE2UXYR.png" title="source: imgur.com" /></a>
 
 ## :rocket: Tecnologias
 
-Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de aumentar meus conhecimentos com a tecnologia. Eu utizei as tecnologias logo abaixo:
+Este projeto foi desenvolvido no decorrer dos meus estudos, com o propósito de aumentar meus conhecimentos com a tecnologia aplicada no projeto. Eu utizei as tecnologias logo abaixo:
 
 -  [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -  [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS/)
@@ -41,10 +38,10 @@ Para clonar e executar esta aplicação, você precisa do [Git](https://git-scm.
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/SilvaneiMartins/google-clone
+$ git clone https://github.com/SilvaneiMartins/sporty-clone
 
 # Go into the repository
-$ cd google-clone
+$ cd sporty-clone
 
 # Install dependencies
 $ yarn
@@ -60,7 +57,7 @@ $ npm start
 ```
 
 ## :memo: License
-Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/google-clone/blob/master/LICENSE) for more information.
+Este projeto está sob a licença MIT. Veja o [LICENSE](https://github.com/SilvaneiMartins/sporty-clone/blob/master/LICENSE) for more information.
 
 ---
 
