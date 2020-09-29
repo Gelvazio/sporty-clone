@@ -1,8 +1,14 @@
+/*
+* Desenvolvedor: Silvanei Martins;
+* Email: silvaneimartins_rcc@hotmail.com;
+* WhatsApp: (69) 9.8405-2620;  
+* Projeto Spotify Clone;
+*/
 // https://developer.spotify.com/documentation/web-playback-sdk/quick-start/#
 export const authEndPoint = "https://accounts.spotify.com/authorize"
 
 // Replace with your app's client ID, redirect URI and desired scopes
-const clientId = "2834fa56f3c14fdbae413776215b3542"
+const clientId = process.env.CLIEND_ID
 const redirectUri = "http://localhost:3000/"
 
 const scopes = [

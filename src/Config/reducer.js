@@ -1,3 +1,9 @@
+/*
+* Desenvolvedor: Silvanei Martins;
+* Email: silvaneimartins_rcc@hotmail.com;
+* WhatsApp: (69) 9.8405-2620;  
+* Projeto Spotify Clone;
+*/
 export const initialState = {
     user: null,
     token: null,
